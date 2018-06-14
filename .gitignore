@@ -1,0 +1,9 @@
+/.gradle/
+/bin/
+.settings/
+.vagrant/
+build/
+.classpath
+.project
+.idea/
+target/
